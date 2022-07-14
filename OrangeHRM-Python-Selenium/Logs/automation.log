@@ -1,0 +1,388 @@
+2022-07-11 23:26:09,946 - WDM - INFO - ====== WebDriver manager ======
+2022-07-11 23:26:09,950 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-11 23:26:09,950 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-11 23:26:10,024 - WDM - INFO - Driver [C:\Users\Brian\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-11 23:26:11,476 - root - INFO - ***********logging stuff here***************
+2022-07-12 11:20:24,752 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:20:24,758 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:20:24,759 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:20:24,862 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/103.0.5060.53/chromedriver_win32.zip
+2022-07-12 11:20:25,184 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\drivers\chromedriver\win32\103.0.5060.53]
+2022-07-12 11:20:26,821 - root - INFO - ***********logging stuff here***************
+2022-07-12 11:23:51,394 - WDM - INFO - xdist worker is: gw0
+2022-07-12 11:23:51,394 - WDM - INFO - xdist worker is: gw1
+2022-07-12 11:23:51,394 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:23:51,394 - WDM - INFO - xdist worker is: gw5
+2022-07-12 11:23:51,394 - WDM - INFO - xdist worker is: gw4
+2022-07-12 11:23:51,394 - WDM - INFO - xdist worker is: gw2
+2022-07-12 11:23:51,394 - WDM - INFO - xdist worker is: gw6
+2022-07-12 11:23:51,395 - WDM - INFO - xdist worker is: gw3
+2022-07-12 11:23:51,395 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:23:51,395 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:23:51,395 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:23:51,395 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:23:51,396 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:23:51,396 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:23:51,400 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:23:51,400 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:23:51,401 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:23:51,402 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:23:51,402 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:23:51,402 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:23:51,402 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:23:51,402 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:23:51,402 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:23:51,402 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:23:51,402 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:23:51,403 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:23:51,403 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:23:51,403 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:23:51,491 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/103.0.5060.53/chromedriver_win32.zip
+2022-07-12 11:23:51,493 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/103.0.5060.53/chromedriver_win32.zip
+2022-07-12 11:23:51,493 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/103.0.5060.53/chromedriver_win32.zip
+2022-07-12 11:23:51,493 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/103.0.5060.53/chromedriver_win32.zip
+2022-07-12 11:23:51,500 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/103.0.5060.53/chromedriver_win32.zip
+2022-07-12 11:23:51,502 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/103.0.5060.53/chromedriver_win32.zip
+2022-07-12 11:23:51,504 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/103.0.5060.53/chromedriver_win32.zip
+2022-07-12 11:23:52,055 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw4\drivers\chromedriver\win32\103.0.5060.53]
+2022-07-12 11:23:52,058 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw3\drivers\chromedriver\win32\103.0.5060.53]
+2022-07-12 11:23:52,064 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw0\drivers\chromedriver\win32\103.0.5060.53]
+2022-07-12 11:23:52,085 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw6\drivers\chromedriver\win32\103.0.5060.53]
+2022-07-12 11:23:52,135 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw2\drivers\chromedriver\win32\103.0.5060.53]
+2022-07-12 11:23:52,147 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw1\drivers\chromedriver\win32\103.0.5060.53]
+2022-07-12 11:23:52,211 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw5\drivers\chromedriver\win32\103.0.5060.53]
+2022-07-12 11:23:54,513 - root - INFO - ***********logging stuff here***************
+2022-07-12 11:24:18,118 - WDM - INFO - xdist worker is: gw0
+2022-07-12 11:24:18,118 - WDM - INFO - xdist worker is: gw1
+2022-07-12 11:24:18,118 - WDM - INFO - xdist worker is: gw2
+2022-07-12 11:24:18,118 - WDM - INFO - xdist worker is: gw3
+2022-07-12 11:24:18,118 - WDM - INFO - xdist worker is: gw6
+2022-07-12 11:24:18,118 - WDM - INFO - xdist worker is: gw4
+2022-07-12 11:24:18,118 - WDM - INFO - xdist worker is: gw5
+2022-07-12 11:24:18,119 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:24:18,119 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:24:18,119 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:24:18,119 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:24:18,120 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:24:18,120 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:24:18,120 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:24:18,126 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:24:18,126 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:24:18,126 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:24:18,126 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:24:18,127 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:24:18,127 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:24:18,127 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:24:18,127 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:24:18,127 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:24:18,127 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:24:18,127 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:24:18,127 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:24:18,128 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:24:18,128 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:24:18,223 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw0\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:24:18,225 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw3\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:24:18,225 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw1\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:24:18,225 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw6\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:24:18,226 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw2\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:24:18,230 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw4\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:24:18,237 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw5\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:24:20,333 - root - INFO - ***********logging stuff here***************
+2022-07-12 11:26:19,576 - WDM - INFO - xdist worker is: gw1
+2022-07-12 11:26:19,576 - WDM - INFO - xdist worker is: gw3
+2022-07-12 11:26:19,576 - WDM - INFO - xdist worker is: gw2
+2022-07-12 11:26:19,576 - WDM - INFO - xdist worker is: gw0
+2022-07-12 11:26:19,576 - WDM - INFO - xdist worker is: gw6
+2022-07-12 11:26:19,576 - WDM - INFO - xdist worker is: gw5
+2022-07-12 11:26:19,576 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:26:19,576 - WDM - INFO - xdist worker is: gw4
+2022-07-12 11:26:19,576 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:26:19,576 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:26:19,577 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:26:19,577 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:26:19,577 - WDM - INFO - Get LATEST driver version for 
+2022-07-12 11:26:19,578 - WDM - INFO - Get LATEST driver version for 
+2022-07-12 11:26:19,577 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:26:19,577 - WDM - INFO - Get LATEST driver version for 
+2022-07-12 11:26:19,577 - WDM - INFO - Get LATEST driver version for 
+2022-07-12 11:26:19,577 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:26:19,578 - WDM - INFO - Get LATEST driver version for 
+2022-07-12 11:26:19,578 - WDM - INFO - Get LATEST driver version for 
+2022-07-12 11:26:19,579 - WDM - INFO - Get LATEST driver version for 
+2022-07-12 11:26:20,405 - WDM - INFO - There is no [win64] IEDriverServer for browser  in cache
+2022-07-12 11:26:20,405 - WDM - INFO - There is no [win64] IEDriverServer for browser  in cache
+2022-07-12 11:26:20,405 - WDM - INFO - Getting latest ie release info for 4.2.0
+2022-07-12 11:26:20,406 - WDM - INFO - Getting latest ie release info for 4.2.0
+2022-07-12 11:26:20,406 - WDM - INFO - There is no [win64] IEDriverServer for browser  in cache
+2022-07-12 11:26:20,407 - WDM - INFO - Getting latest ie release info for 4.2.0
+2022-07-12 11:26:20,407 - WDM - INFO - There is no [win64] IEDriverServer for browser  in cache
+2022-07-12 11:26:20,407 - WDM - INFO - Getting latest ie release info for 4.2.0
+2022-07-12 11:26:20,414 - WDM - INFO - There is no [win64] IEDriverServer for browser  in cache
+2022-07-12 11:26:20,415 - WDM - INFO - Getting latest ie release info for 4.2.0
+2022-07-12 11:26:20,417 - WDM - INFO - There is no [win64] IEDriverServer for browser  in cache
+2022-07-12 11:26:20,417 - WDM - INFO - Getting latest ie release info for 4.2.0
+2022-07-12 11:26:20,420 - WDM - INFO - There is no [win64] IEDriverServer for browser  in cache
+2022-07-12 11:26:20,421 - WDM - INFO - Getting latest ie release info for 4.2.0
+2022-07-12 11:26:20,605 - WDM - INFO - About to download new driver from https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.2.0/IEDriverServer_Win32_4.2.0.zip
+2022-07-12 11:26:20,605 - WDM - INFO - About to download new driver from https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.2.0/IEDriverServer_Win32_4.2.0.zip
+2022-07-12 11:26:20,606 - WDM - INFO - About to download new driver from https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.2.0/IEDriverServer_Win32_4.2.0.zip
+2022-07-12 11:26:20,607 - WDM - INFO - About to download new driver from https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.2.0/IEDriverServer_Win32_4.2.0.zip
+2022-07-12 11:26:20,607 - WDM - INFO - About to download new driver from https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.2.0/IEDriverServer_Win32_4.2.0.zip
+2022-07-12 11:26:20,607 - WDM - INFO - About to download new driver from https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.2.0/IEDriverServer_Win32_4.2.0.zip
+2022-07-12 11:26:20,608 - WDM - INFO - About to download new driver from https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.2.0/IEDriverServer_Win32_4.2.0.zip
+2022-07-12 11:26:21,393 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw5\drivers\IEDriverServer\win64\4.2.0]
+2022-07-12 11:26:21,430 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw1\drivers\IEDriverServer\win64\4.2.0]
+2022-07-12 11:26:21,433 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw2\drivers\IEDriverServer\win64\4.2.0]
+2022-07-12 11:26:21,436 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw4\drivers\IEDriverServer\win64\4.2.0]
+2022-07-12 11:26:21,479 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw3\drivers\IEDriverServer\win64\4.2.0]
+2022-07-12 11:26:21,530 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw0\drivers\IEDriverServer\win64\4.2.0]
+2022-07-12 11:26:21,575 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw6\drivers\IEDriverServer\win64\4.2.0]
+2022-07-12 11:29:09,306 - WDM - INFO - xdist worker is: gw0
+2022-07-12 11:29:09,306 - WDM - INFO - xdist worker is: gw1
+2022-07-12 11:29:09,306 - WDM - INFO - xdist worker is: gw3
+2022-07-12 11:29:09,306 - WDM - INFO - xdist worker is: gw4
+2022-07-12 11:29:09,306 - WDM - INFO - xdist worker is: gw6
+2022-07-12 11:29:09,306 - WDM - INFO - xdist worker is: gw2
+2022-07-12 11:29:09,306 - WDM - INFO - xdist worker is: gw5
+2022-07-12 11:29:09,306 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:29:09,306 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:29:09,306 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:29:09,307 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:29:09,307 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:29:09,307 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:29:09,307 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:29:09,307 - WDM - INFO - Get LATEST driver version for 
+2022-07-12 11:29:09,308 - WDM - INFO - Get LATEST driver version for 
+2022-07-12 11:29:09,308 - WDM - INFO - Get LATEST driver version for 
+2022-07-12 11:29:09,308 - WDM - INFO - Get LATEST driver version for 
+2022-07-12 11:29:09,308 - WDM - INFO - Get LATEST driver version for 
+2022-07-12 11:29:09,308 - WDM - INFO - Get LATEST driver version for 
+2022-07-12 11:29:09,309 - WDM - INFO - Get LATEST driver version for 
+2022-07-12 11:29:10,329 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw2\drivers\IEDriverServer\win64\4.2.0\IEDriverServer.exe] found in cache
+2022-07-12 11:29:10,329 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw1\drivers\IEDriverServer\win64\4.2.0\IEDriverServer.exe] found in cache
+2022-07-12 11:29:10,332 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw5\drivers\IEDriverServer\win64\4.2.0\IEDriverServer.exe] found in cache
+2022-07-12 11:29:10,332 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw4\drivers\IEDriverServer\win64\4.2.0\IEDriverServer.exe] found in cache
+2022-07-12 11:29:10,332 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw3\drivers\IEDriverServer\win64\4.2.0\IEDriverServer.exe] found in cache
+2022-07-12 11:29:10,337 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw6\drivers\IEDriverServer\win64\4.2.0\IEDriverServer.exe] found in cache
+2022-07-12 11:29:10,343 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw0\drivers\IEDriverServer\win64\4.2.0\IEDriverServer.exe] found in cache
+2022-07-12 11:31:29,760 - WDM - INFO - xdist worker is: gw0
+2022-07-12 11:31:29,760 - WDM - INFO - xdist worker is: gw4
+2022-07-12 11:31:29,760 - WDM - INFO - xdist worker is: gw2
+2022-07-12 11:31:29,760 - WDM - INFO - xdist worker is: gw3
+2022-07-12 11:31:29,760 - WDM - INFO - xdist worker is: gw1
+2022-07-12 11:31:29,760 - WDM - INFO - xdist worker is: gw6
+2022-07-12 11:31:29,760 - WDM - INFO - xdist worker is: gw5
+2022-07-12 11:31:29,761 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:31:29,761 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:31:29,761 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:31:29,761 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:31:29,761 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:31:29,762 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:31:29,762 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:31:29,767 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:31:29,767 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:31:29,767 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:31:29,768 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:31:29,768 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:31:29,768 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:31:29,768 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:31:29,768 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:31:29,768 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:31:29,768 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:31:29,768 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:31:29,768 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:31:29,769 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:31:29,769 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:31:29,904 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw4\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:31:29,904 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw6\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:31:29,905 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw1\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:31:29,907 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw5\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:31:29,908 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw0\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:31:29,912 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw2\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:31:29,916 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw3\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:31:31,909 - root - INFO - ***********logging stuff here***************
+2022-07-12 11:32:19,641 - WDM - INFO - xdist worker is: gw1
+2022-07-12 11:32:19,641 - WDM - INFO - xdist worker is: gw2
+2022-07-12 11:32:19,641 - WDM - INFO - xdist worker is: gw6
+2022-07-12 11:32:19,641 - WDM - INFO - xdist worker is: gw5
+2022-07-12 11:32:19,641 - WDM - INFO - xdist worker is: gw3
+2022-07-12 11:32:19,641 - WDM - INFO - xdist worker is: gw4
+2022-07-12 11:32:19,641 - WDM - INFO - xdist worker is: gw0
+2022-07-12 11:32:19,642 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:32:19,642 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:32:19,642 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:32:19,642 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:32:19,642 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:32:19,642 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:32:19,642 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:32:19,649 - WDM - INFO - Current edge version is 103.0.1264
+2022-07-12 11:32:19,649 - WDM - INFO - Current edge version is 103.0.1264
+2022-07-12 11:32:19,650 - WDM - INFO - Current edge version is 103.0.1264
+2022-07-12 11:32:19,650 - WDM - INFO - Current edge version is 103.0.1264
+2022-07-12 11:32:19,650 - WDM - INFO - Get LATEST edgedriver version for 103.0.1264 Edge
+2022-07-12 11:32:19,650 - WDM - INFO - Get LATEST edgedriver version for 103.0.1264 Edge
+2022-07-12 11:32:19,650 - WDM - INFO - Get LATEST edgedriver version for 103.0.1264 Edge
+2022-07-12 11:32:19,650 - WDM - INFO - Current edge version is 103.0.1264
+2022-07-12 11:32:19,650 - WDM - INFO - Get LATEST edgedriver version for 103.0.1264 Edge
+2022-07-12 11:32:19,650 - WDM - INFO - Current edge version is 103.0.1264
+2022-07-12 11:32:19,651 - WDM - INFO - Get LATEST edgedriver version for 103.0.1264 Edge
+2022-07-12 11:32:19,651 - WDM - INFO - Get LATEST edgedriver version for 103.0.1264 Edge
+2022-07-12 11:32:19,651 - WDM - INFO - Current edge version is 103.0.1264
+2022-07-12 11:32:19,652 - WDM - INFO - Get LATEST edgedriver version for 103.0.1264 Edge
+2022-07-12 11:32:19,852 - WDM - INFO - There is no [win64] edgedriver for browser 103.0.1264 in cache
+2022-07-12 11:32:19,852 - WDM - INFO - There is no [win64] edgedriver for browser 103.0.1264 in cache
+2022-07-12 11:32:19,852 - WDM - INFO - There is no [win64] edgedriver for browser 103.0.1264 in cache
+2022-07-12 11:32:19,852 - WDM - INFO - There is no [win64] edgedriver for browser 103.0.1264 in cache
+2022-07-12 11:32:19,855 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/103.0.1264.49/edgedriver_win64.zip
+2022-07-12 11:32:19,854 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/103.0.1264.49/edgedriver_win64.zip
+2022-07-12 11:32:19,852 - WDM - INFO - There is no [win64] edgedriver for browser 103.0.1264 in cache
+2022-07-12 11:32:19,855 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/103.0.1264.49/edgedriver_win64.zip
+2022-07-12 11:32:19,856 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/103.0.1264.49/edgedriver_win64.zip
+2022-07-12 11:32:19,858 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/103.0.1264.49/edgedriver_win64.zip
+2022-07-12 11:32:19,864 - WDM - INFO - There is no [win64] edgedriver for browser 103.0.1264 in cache
+2022-07-12 11:32:19,864 - WDM - INFO - There is no [win64] edgedriver for browser 103.0.1264 in cache
+2022-07-12 11:32:19,865 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/103.0.1264.49/edgedriver_win64.zip
+2022-07-12 11:32:19,866 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/103.0.1264.49/edgedriver_win64.zip
+2022-07-12 11:32:20,521 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw6\drivers\edgedriver\win64\103.0.1264.49]
+2022-07-12 11:32:20,561 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw0\drivers\edgedriver\win64\103.0.1264.49]
+2022-07-12 11:32:20,590 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw2\drivers\edgedriver\win64\103.0.1264.49]
+2022-07-12 11:32:20,623 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw3\drivers\edgedriver\win64\103.0.1264.49]
+2022-07-12 11:32:20,801 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw1\drivers\edgedriver\win64\103.0.1264.49]
+2022-07-12 11:32:20,886 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw4\drivers\edgedriver\win64\103.0.1264.49]
+2022-07-12 11:32:20,905 - WDM - INFO - Driver has been saved in cache [C:\Users\Brian\.wdm\gw5\drivers\edgedriver\win64\103.0.1264.49]
+2022-07-12 11:32:23,738 - root - INFO - ***********logging stuff here***************
+2022-07-12 11:36:12,999 - WDM - INFO - xdist worker is: gw0
+2022-07-12 11:36:12,999 - WDM - INFO - xdist worker is: gw2
+2022-07-12 11:36:12,999 - WDM - INFO - xdist worker is: gw3
+2022-07-12 11:36:13,000 - WDM - INFO - xdist worker is: gw4
+2022-07-12 11:36:13,000 - WDM - INFO - xdist worker is: gw1
+2022-07-12 11:36:13,000 - WDM - INFO - xdist worker is: gw5
+2022-07-12 11:36:13,000 - WDM - INFO - xdist worker is: gw6
+2022-07-12 11:36:13,000 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:36:13,000 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:36:13,000 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:36:13,000 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:36:13,000 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:36:13,001 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:36:13,001 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 11:36:13,007 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:36:13,007 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:36:13,007 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:36:13,008 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:36:13,008 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:36:13,008 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:36:13,008 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:36:13,008 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:36:13,008 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:36:13,008 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:36:13,008 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:36:13,009 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 11:36:13,009 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:36:13,009 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 11:36:13,085 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw4\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:36:13,085 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw3\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:36:13,085 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw6\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:36:13,086 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw0\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:36:13,087 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw1\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:36:13,087 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw2\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:36:13,091 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw5\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 11:36:15,206 - root - INFO - ***********logging stuff here***************
+2022-07-12 15:41:44,131 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 15:41:44,135 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 15:41:44,136 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 15:41:44,268 - WDM - INFO - Driver [C:\Users\Brian\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 15:41:45,817 - root - INFO - ***********logging stuff here***************
+2022-07-12 15:41:47,313 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 15:41:47,314 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 15:41:47,314 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 15:41:47,383 - WDM - INFO - Driver [C:\Users\Brian\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 15:41:50,068 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 15:41:50,068 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 15:41:50,069 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 15:41:50,136 - WDM - INFO - Driver [C:\Users\Brian\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 15:41:52,506 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 15:41:52,507 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 15:41:52,507 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 15:41:52,573 - WDM - INFO - Driver [C:\Users\Brian\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 15:41:54,208 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 15:41:54,208 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 15:41:54,208 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 15:41:54,284 - WDM - INFO - Driver [C:\Users\Brian\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 17:24:01,251 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 17:24:01,255 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 17:24:01,255 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 17:24:01,330 - WDM - INFO - Driver [C:\Users\Brian\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 17:24:02,813 - root - INFO - ***********logging stuff here***************
+2022-07-12 17:58:41,689 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 17:58:41,693 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 17:58:41,694 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 17:58:41,790 - WDM - INFO - Driver [C:\Users\Brian\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 17:58:43,235 - root - INFO - ***********logging stuff here***************
+2022-07-12 17:58:44,730 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 17:58:44,731 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 17:58:44,732 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 17:58:44,804 - WDM - INFO - Driver [C:\Users\Brian\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 17:58:47,450 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 17:58:47,451 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 17:58:47,451 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 17:58:47,525 - WDM - INFO - Driver [C:\Users\Brian\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 17:58:49,814 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 17:58:49,815 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 17:58:49,815 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 17:58:49,880 - WDM - INFO - Driver [C:\Users\Brian\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 17:58:51,485 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 17:58:51,485 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 17:58:51,485 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 17:58:51,547 - WDM - INFO - Driver [C:\Users\Brian\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 18:00:35,918 - WDM - INFO - xdist worker is: gw3
+2022-07-12 18:00:35,918 - WDM - INFO - xdist worker is: gw4
+2022-07-12 18:00:35,918 - WDM - INFO - xdist worker is: gw1
+2022-07-12 18:00:35,918 - WDM - INFO - xdist worker is: gw2
+2022-07-12 18:00:35,919 - WDM - INFO - xdist worker is: gw0
+2022-07-12 18:00:35,919 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 18:00:35,919 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 18:00:35,919 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 18:00:35,920 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 18:00:35,920 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 18:00:35,925 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 18:00:35,926 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 18:00:35,926 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 18:00:35,926 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 18:00:35,926 - WDM - INFO - Current google-chrome version is 103.0.5060
+2022-07-12 18:00:35,926 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 18:00:35,926 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 18:00:35,926 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 18:00:35,926 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 18:00:35,927 - WDM - INFO - Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-07-12 18:00:36,002 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw4\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 18:00:36,003 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw1\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 18:00:36,006 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw3\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 18:00:36,006 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw0\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 18:00:36,011 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw2\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+2022-07-12 18:00:37,870 - root - INFO - ***********logging stuff here***************
+2022-07-12 18:03:06,424 - WDM - INFO - xdist worker is: gw3
+2022-07-12 18:03:06,424 - WDM - INFO - xdist worker is: gw0
+2022-07-12 18:03:06,424 - WDM - INFO - xdist worker is: gw2
+2022-07-12 18:03:06,424 - WDM - INFO - xdist worker is: gw4
+2022-07-12 18:03:06,424 - WDM - INFO - xdist worker is: gw1
+2022-07-12 18:03:06,425 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 18:03:06,425 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 18:03:06,425 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 18:03:06,425 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 18:03:06,425 - WDM - INFO - ====== WebDriver manager ======
+2022-07-12 18:03:06,433 - WDM - INFO - Current edge version is 103.0.1264
+2022-07-12 18:03:06,433 - WDM - INFO - Current edge version is 103.0.1264
+2022-07-12 18:03:06,433 - WDM - INFO - Current edge version is 103.0.1264
+2022-07-12 18:03:06,433 - WDM - INFO - Current edge version is 103.0.1264
+2022-07-12 18:03:06,433 - WDM - INFO - Current edge version is 103.0.1264
+2022-07-12 18:03:06,434 - WDM - INFO - Get LATEST edgedriver version for 103.0.1264 Edge
+2022-07-12 18:03:06,434 - WDM - INFO - Get LATEST edgedriver version for 103.0.1264 Edge
+2022-07-12 18:03:06,434 - WDM - INFO - Get LATEST edgedriver version for 103.0.1264 Edge
+2022-07-12 18:03:06,434 - WDM - INFO - Get LATEST edgedriver version for 103.0.1264 Edge
+2022-07-12 18:03:06,434 - WDM - INFO - Get LATEST edgedriver version for 103.0.1264 Edge
+2022-07-12 18:03:06,642 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw1\drivers\edgedriver\win64\103.0.1264.49\msedgedriver.exe] found in cache
+2022-07-12 18:03:06,647 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw2\drivers\edgedriver\win64\103.0.1264.49\msedgedriver.exe] found in cache
+2022-07-12 18:03:06,649 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw0\drivers\edgedriver\win64\103.0.1264.49\msedgedriver.exe] found in cache
+2022-07-12 18:03:06,654 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw3\drivers\edgedriver\win64\103.0.1264.49\msedgedriver.exe] found in cache
+2022-07-12 18:03:06,655 - WDM - INFO - Driver [C:\Users\Brian\.wdm\gw4\drivers\edgedriver\win64\103.0.1264.49\msedgedriver.exe] found in cache
+2022-07-12 18:03:09,714 - root - INFO - ***********logging stuff here***************
